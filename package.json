@@ -1,0 +1,11 @@
+{
+  "name": "printerrorinfo",
+  "version": "1.0.0",
+  "description": "Simple error printing function to allow for streamlined error handling and logging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charles Howe",
+  "license": "ISC"
+}
